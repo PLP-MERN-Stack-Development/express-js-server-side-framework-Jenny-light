@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/express-products-api.git
+git clone https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-Jenny-light
 cd express-products-api
 ```
 
@@ -375,10 +375,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Jennifer Omoregier**
+**Jennifer Omoregier**@yo
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Jenny-light
+  
 
 ## 🙏 Acknowledgments
 
@@ -388,7 +388,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions or support, please open an issue in the GitHub repository or contact me at your.email@example.com
+For questions or support, please open an issue in the GitHub repository or contact me at jennylightomoregie@gmail.com
 
 ---
 
